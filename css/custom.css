@@ -1,0 +1,20 @@
+div .page {
+	margin-bottom: 50px;
+}
+
+.page-content .site-header-container {
+		/*color: $white;*/
+		text-shadow: 0 1px 1px rgba(0,0,0,0.33);
+		background-color: #2581bc;
+		min-height: 800px;
+	}
+
+.page-content .site-header-container .site-header {
+	margin-top: 100px;
+}
+
+.page-content .site-header-container .site-header .subtitle{
+	font-style: normal;
+}
+
+
