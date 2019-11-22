@@ -1,0 +1,8 @@
+{:title "Another Page"
+ :layout :page
+ :page-index 20}
+
+## Look at this sweet page
+
+this is another custom page
+totally not a post
