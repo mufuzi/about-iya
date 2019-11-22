@@ -1,6 +1,0 @@
-- change font
-- change favicon
-- fix logo
-- DONE use landing page
-- add contactus
-- modernize powerpoints
