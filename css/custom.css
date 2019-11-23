@@ -54,5 +54,18 @@ h2 {
 
 h1, h2, h3, h4, h5, h6 {
     /*font-family: 'Alegreya';*/
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+h2 {
+	margin-top: 15px;
+}
+
+body {
+	/*font-family: Georgia, "Times New Roman", Times, serif;*/
+	font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	/*font-family: "Gentium Book Basic", Palatino Linotype, Book Antiqua, Palatino, serif;*/
+	/*font-size: 1em;*/
+	/*line-height: 1.69231em;*/
+	line-height: 1.618em;
+	color: #333;
 }
