@@ -39,3 +39,20 @@ div .page {
 .navbar-brand{
 	font-weight: bold;
 }
+
+h1 {
+  border-bottom: none; }
+
+h2 {
+  border-bottom: none; }
+
+.navbar-default .navbar-brand {
+    color: #fff;
+    /*font-family: 'Alegreya';*/
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    /*font-family: 'Alegreya';*/
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
